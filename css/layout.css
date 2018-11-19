@@ -41,6 +41,7 @@
 [class*="col-"] {
   margin-left: 2%;
   margin-bottom: 2%;
+  height: 100%;
 }
 
 .first {
